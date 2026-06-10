@@ -64,6 +64,56 @@ $ currently_building
 
 ---
 
+## 🎯 Competitive Programming Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/GowthamGowri/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/gowthamgowri11">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+</a>
+
+<a href="https://codeforces.com/profile/gowtham_11">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://atcoder.jp/users/gowtham_11">
+<img src="https://img.shields.io/badge/AtCoder-Profile-00599C?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Platform | Profile |
+| :---: | :---: |
+| <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="20"/> **LeetCode** | [Visit Profile](https://leetcode.com/u/GowthamGowri/) |
+| <img src="https://cdn.simpleicons.org/codechef/5B4638" width="20"/> **CodeChef** | [Visit Profile](https://www.codechef.com/users/gowthamgowri11) |
+| <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="20"/> **Codeforces** | [Visit Profile](https://codeforces.com/profile/gowtham_11) |
+| 🟦 **AtCoder** | [Visit Profile](https://atcoder.jp/users/gowtham_11) |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💻 Problem Solving Journey
+
+🏅 **1250+ Problems Solved** &nbsp;&nbsp;•&nbsp;&nbsp;
+🏆 **100+ Coding Contests** &nbsp;&nbsp;•&nbsp;&nbsp;
+📈 **1400+ LeetCode Rating** &nbsp;&nbsp;•&nbsp;&nbsp;
+🔥 **1400+ CodeChef Rating**
+
+</div>
+
+---
+
 ## ⚙️ Tech Stack
 
 <div align="center">
