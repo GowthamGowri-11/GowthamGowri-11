@@ -2,9 +2,11 @@
 
 # Gowtham M
 
-### Full Stack Developer • Cloud & DevOps Enthusiast • AI & Data Science Student
+### 🚀 Full Stack Developer • ☁️ Cloud & DevOps Enthusiast • 🤖 AI & Data Science Student
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=1250%2B+Problems+Solved;Cloud+Computing+%26+DevOps+Intern;Building+Scalable+Applications;MERN+Stack+Developer;Always+Learning+Always+Building" />
+
+<img src="https://komarev.com/ghpvc/?username=GowthamGowri-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -38,15 +40,21 @@ $ currently_building
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/gowtham-m-0a8335377)
+<a href="https://www.linkedin.com/in/gowtham-m-0a8335377">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge\&logo=github)](https://github.com/GowthamGowri-11)
+<a href="https://github.com/GowthamGowri-11">
+<img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:kit28.24bad049@gmail.com)
+<a href="mailto:kit28.24bad049@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
@@ -56,7 +64,25 @@ $ currently_building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nextjs,nodejs,mongodb,mysql,aws,linux,git,github" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,linux,git,github,docker"/>
 
 </div>
 
@@ -65,42 +91,42 @@ $ currently_building
 ## ☁️ Experience
 
 ### Cloud Computing & DevOps Intern
-
 **FinestCoder (Coding Mart)**
 
-* Worked with AWS services including EC2, S3, IAM, VPC, Route Tables, NAT Gateways and Internet Gateways.
-* Configured Linux servers and deployed applications in cloud environments.
-* Implemented VPC networking, routing and access management.
-* Automated repetitive tasks using Shell Scripting.
-* Learned DevOps workflows including Git, GitHub and CI/CD concepts.
-* Performed troubleshooting and cloud resource optimization.
+- Worked with AWS services including EC2, S3, IAM, VPC, Route Tables, NAT Gateways and Internet Gateways.
+- Configured Linux servers and deployed applications in cloud environments.
+- Implemented VPC networking, routing and access management.
+- Automated repetitive tasks using Shell Scripting.
+- Learned DevOps workflows including Git, GitHub and CI/CD concepts.
+- Performed troubleshooting and cloud resource optimization.
 
 ### Freelance Software Developer
 
-* Delivered multiple client-based software solutions.
-* Built customized applications based on business requirements.
-* Improved performance through debugging and optimization.
-* Managed projects from development to deployment.
+- Delivered multiple client-based software solutions.
+- Built customized applications based on business requirements.
+- Improved performance through debugging and optimization.
+- Managed projects from development to deployment.
 
 ---
 
-# 🚀 Project Showcase
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎓 LMS Portal
 
 Online Learning Platform inspired by Coursera.
 
-**Stack:** MERN Stack
+**Tech Stack:** MERN Stack
 
-* Student Dashboard
-* Trainer Dashboard
-* Course Management
-* Progress Tracking
-* Certificate Generation
+- Student Dashboard
+- Trainer Dashboard
+- Course Management
+- Progress Tracking
+- Certificate Generation
 
 🔗 **[Repository](https://github.com/GowthamGowri-11/lms-portal)**
 
@@ -112,31 +138,33 @@ Online Learning Platform inspired by Coursera.
 
 Property Management Platform.
 
-**Stack:** MERN Stack
+**Tech Stack:** MERN Stack
 
-* Property Listings
-* Secure Transactions
-* User Authentication
-* Ownership Management
+- Property Listings
+- Secure Transactions
+- User Authentication
+- Ownership Management
 
 🔗 **[Repository](https://github.com/GowthamGowri-11/fsdproject)**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 📊 Student Performance Tracker
 
 ML-Powered Academic Analytics.
 
-**Stack:** Python, Streamlit
+**Tech Stack:** Python, Streamlit
 
-* Performance Prediction
-* Data Visualization
-* Model Training
-* Analytics Dashboard
+- Performance Prediction
+- Data Visualization
+- Model Training
+- Analytics Dashboard
 
 🔗 **[Repository](https://github.com/GowthamGowri-11/ml-project)**
 
@@ -148,29 +176,31 @@ ML-Powered Academic Analytics.
 
 Agricultural Data Management System.
 
-**Stack:** Next.js
+**Tech Stack:** Next.js
 
-* Workflow Automation
-* Secure Data Handling
-* Analytics Dashboard
+- Workflow Automation
+- Secure Data Handling
+- Analytics Dashboard
 
 🔗 **[Repository](https://github.com/bharathraj-ai/DATA-GUARDIAN-2.0)**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🔐 Data Securer
 
 Blockchain-Based Data Security.
 
-**Stack:** MERN + Blockchain
+**Tech Stack:** MERN + Blockchain
 
-* Data Protection
-* Encryption
-* Integrity Validation
+- Data Protection
+- Encryption
+- Integrity Validation
 
 🔗 **[Repository](https://github.com/GowthamGowri-11/DATA-SECURER)**
 
@@ -182,22 +212,24 @@ Blockchain-Based Data Security.
 
 AI-Based Intrusion Detection System.
 
-**Stack:** Python + MERN
+**Tech Stack:** Python + MERN
 
-* Threat Detection
-* Network Traffic Analysis
-* Real-Time Monitoring
-* ML Attack Prediction
+- Threat Detection
+- Network Traffic Analysis
+- Real-Time Monitoring
+- ML Attack Prediction
 
 🔗 **[Repository](https://github.com/bharathraj-ai/AI-IDS-Model)**
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## 🏆 Achievement Board
+## 🏆 Achievements
 
 ```text
 🏅 1250+ Coding Problems Solved
@@ -217,19 +249,19 @@ AI-Based Intrusion Detection System.
 
 ## 📜 Certifications
 
-✓ NPTEL DBMS (Elite + Gold)
+✅ NPTEL DBMS (Elite + Gold)
 
-✓ NPTEL Java Programming (Elite + Gold)
+✅ NPTEL Java Programming (Elite + Gold)
 
-✓ NPTEL Programming in Java
+✅ NPTEL Programming in Java
 
-✓ NPTEL Problem Solving in C
+✅ NPTEL Problem Solving in C
 
-✓ Cisco Python Essentials 1 & 2
+✅ Cisco Python Essentials 1 & 2
 
-✓ Cisco Operating System Foundations
+✅ Cisco Operating System Foundations
 
-✓ Coursera HTML, CSS & JavaScript
+✅ Coursera HTML, CSS & JavaScript
 
 ---
 
@@ -251,13 +283,44 @@ AI-Based Intrusion Detection System.
 
 ---
 
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GowthamGowri-11&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GowthamGowri-11&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
 ```java
 while(alive){
+
     Learn();
+
     Build();
+
     Deploy();
+
     Improve();
+
+    Repeat();
+
 }
 ```
 
-### Code • Cloud • Build • Repeat 🚀
+<div align="center">
+
+### 🚀 Code • Cloud • Build • Repeat
+
+</div>
