@@ -56,6 +56,10 @@ $ currently_building
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
+<a href="https://gowtham-portfolio-11.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
