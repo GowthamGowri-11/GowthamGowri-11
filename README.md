@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer • ☁️ Cloud & DevOps Enthusiast • 🤖 AI & Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=1250%2B+Problems+Solved;Cloud+Computing+%26+DevOps+Intern;Building+Scalable+Applications;MERN+Stack+Developer;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=1400%2B+Problems+Solved;Cloud+Computing+%26+DevOps+Intern;Building+Scalable+Applications;MERN+Stack+Developer;Always+Learning+Always+Building" />
 
 <img src="https://komarev.com/ghpvc/?username=GowthamGowri-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
